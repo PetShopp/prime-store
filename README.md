@@ -28,7 +28,7 @@
                 <ul class="dropdown-menu">
                   <li><a class="dropdown-item" href="#">Camisetas</a></li>
                   <li><a class="dropdown-item" href="#">Nuevo</a></li>
-                  <li><a class="dropdown-item" href="#"></a></li>
+                  <li><a class="dropdown-item" href="#">Todo el show</a></li>
                 </ul>
               </li>
             </ul>
