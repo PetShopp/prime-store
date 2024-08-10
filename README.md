@@ -4,7 +4,7 @@
     <script src="script.js"></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>MI PRIMER PAGÍNA</title>
+    <title>PRIMER PAGE</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   </head>
   <body class="bg-dark">
@@ -12,23 +12,23 @@
       
         <div class="container-fluid">
           <a class="navbar-brand" href=""><img src="portrait-mode-female.png" alt="" width="30px"></a>
-          <h2 id="Inicio">STORE PRIME</h2>
+          <h2>STORE PRIME</h2>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#Inicio">Inicio</a>
+                <a class="nav-link active" aria-current="page" href="">Inicio</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Productos
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="segundapage.html">Camisetas</a></li>
-                  <li><a class="dropdown-item" href="#">Nuevo</a></li>
-                  <li><a class="dropdown-item" href="#">Todo el show</a></li>
+                  <li><a class="dropdown-item" href="segundapage.html">Camisas</a></li>
+                  <li><a class="dropdown-item" href="#">Papelería</a></li>
+                  <li><a class="dropdown-item" href="#">Farmacia</a></li>
                 </ul>
               </li>
             </ul>
