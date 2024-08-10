@@ -26,7 +26,7 @@
                   Productos
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">Camisetas</a></li>
+                  <li><a class="dropdown-item" href="segundapage.html">Camisetas</a></li>
                   <li><a class="dropdown-item" href="#">Nuevo</a></li>
                   <li><a class="dropdown-item" href="#">Todo el show</a></li>
                 </ul>
