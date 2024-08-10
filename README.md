@@ -26,9 +26,9 @@
                   Productos
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">Aviso</a></li>
-                  <li><a class="dropdown-item" href="#">Papelería</a></li>
-                  <li><a class="dropdown-item" href="#">Farmacia</a></li>
+                  <li><a class="dropdown-item" href="#">Camisetas</a></li>
+                  <li><a class="dropdown-item" href="#">Nuevo</a></li>
+                  <li><a class="dropdown-item" href="#"></a></li>
                 </ul>
               </li>
             </ul>
